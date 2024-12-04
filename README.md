@@ -51,7 +51,7 @@ When the server is running, it will log the following upon receiving a request:
 ### **Client Output:**  
 When the client runs successfully, it will print:  
 
-`Hello World with RPC and Go, User`
+`Hello World + with RPC and Go`
 
 ## 📖 **How It Works**  
 
